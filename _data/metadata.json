@@ -1,0 +1,15 @@
+{
+  "title": "Arkivarien",
+  "url": "https://myurl.com/",
+  "description": "En sida för oss som bor i Samfälligheten Arkivarien",
+  "feed": {
+    "subtitle": "En sida för oss som bor i Samfälligheten Arkivarien",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://myurl.com/"
+  },
+  "author": {
+    "name": "Your Name Here",
+    "email": "youremailaddress@example.com"
+  }
+}

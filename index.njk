@@ -1,0 +1,14 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Hem
+  order: 1
+---
+
+<h1>De 3 senaste inläggen</h1>
+
+{% set postslist = collections.posts | head(-3) %}
+{% set postslistCounter = collections.posts | length %}
+{% include "postslist.njk" %}
+
+<p>Fler inlägg i <a href="{{ '/posts/' | url }}">arkivet</a>.</p>
