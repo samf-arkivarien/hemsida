@@ -1,15 +1,15 @@
 {
   "title": "Arkivarien",
-  "url": "https://myurl.com/",
+  "url": "https://unruffled-sinoussi-78b663.netlify.app/",
   "description": "En sida för oss som bor i Samfälligheten Arkivarien",
   "feed": {
     "subtitle": "En sida för oss som bor i Samfälligheten Arkivarien",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://unruffled-sinoussi-78b663.netlify.app/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Samfälligheten Arkivarien",
+    "email": "samf.arkivarien@gmail.com"
   }
 }
